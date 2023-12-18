@@ -1,0 +1,504 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "name": "Màn hình MSI PRO MP243XW",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/10/03/mp243xw-2.png",
+      "category": "Smart TV",
+      "price": "1000",
+      "quantity": 0,
+      "sale": true,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Ổ cứng SSD Kingston A400 120GB 2.5 inch SATA3",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/09/12/image-removebg-preview.png",
+      "category": "PCs & Gears",
+      "price": 366,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi Google Tivi 4K 65 inch 65A Pro - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/07/27/a-pro-65-r5-1_638260631706585733.png",
+      "category": "Smart TV",
+      "price": 636,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "name": "Tai nghe Bluetooth Plantronics BackBeat GO 810 - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2020/10/31/image-removebg-preview-2020-10-31t111555-385.png",
+      "category": "Headphone and Speaker",
+      "price": 524,
+      "quantity": 200,
+      "sale": true,
+      "id": 10
+    },
+    {
+      "id": 11,
+      "name": "Tai nghe truyền dẫn xương Shokz Openmove - Chính Hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/06/02/image-removebg-preview-72.png",
+      "category": "Headphone and Speaker",
+      "price": 571,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "id": 12,
+      "name": "TV Samsung The Frame QA55LS03AAKXXV - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/06/01/image-removebg-preview.png",
+      "category": "Smart TV",
+      "price": 212,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "name": "Ổ cứng SSD Kingston A400 240G M.2 2280 - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/09/12/image-removebg-preview-3.png",
+      "category": "PCs & Gears",
+      "price": "55",
+      "quantity": 200,
+      "sale": true,
+      "id": 13
+    },
+    {
+      "id": 14,
+      "name": "Phụ kiện Đế Tản Nhiệt Cơ Động TOMTOC Alumium Foldable 11",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2021/01/14/de-tan-nhiet.png",
+      "category": "PCs & Gears",
+      "price": 927,
+      "quantity": 0,
+      "sale": true
+    },
+    {
+      "id": 15,
+      "name": "Bàn phím gaming Asus ROG Falchion Ace (90MP0346-BKUA10) - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/08/22/rog-falchion-ace-white-red-02.png",
+      "category": "PCs & Gears",
+      "price": 835,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "name": "Loa Soundbar Samsung Q-series Q600B - Chính Hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/05/26/image-removebg-preview-41.png",
+      "category": "Headphone and Speaker",
+      "price": 407,
+      "quantity": "202",
+      "sale": true,
+      "id": 17
+    },
+    {
+      "name": "TV TOSHIBA 65C350LP (4K-65-inch) - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/12/06/image-removebg-preview-2022-12-06t161947-239.png",
+      "category": "Smart TV",
+      "price": "666",
+      "quantity": 1,
+      "sale": true,
+      "id": 18
+    },
+    {
+      "id": 19,
+      "name": "Máy lọc không khí Clair K2M24 - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/06/08/image-removebg-preview-1.png",
+      "category": "Smart home",
+      "price": 302,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "id": 20,
+      "name": "Loa di động B&O Beosound Explore chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2021/10/14/image-removebg-preview-2_637698003427845110.png",
+      "category": "Headphone and Speaker",
+      "price": 169,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "id": 21,
+      "name": "Điện thoại di động Samsung Galaxy S23 Ultra 8GB 256GB - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/02/02/image-removebg-preview-2_638109032737377121.png",
+      "category": "Phone",
+      "price": 552,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "id": 22,
+      "name": "Loa thanh Samsung S61B - Chính Hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/05/26/image-removebg-preview-47.png",
+      "category": "Headphone and Speaker",
+      "price": 561,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "id": 23,
+      "name": "TV Itel G5557 (4K-55-inch) - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/03/10/g5557-1.png",
+      "category": "Smart TV",
+      "price": 738,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "id": 24,
+      "name": "TV Casper 43UGS611 (4K-43-inch) - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/12/06/image-removebg-preview-2022-12-06t161534-682.png",
+      "category": "Smart TV",
+      "price": 907,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "id": 25,
+      "name": "Cân điện tử Xiaomi Mi Scale 2 - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/04/17/russell-taylors-bws-10.png",
+      "category": "Smart home",
+      "price": 882,
+      "quantity": 200,
+      "sale": true
+    },
+    {
+      "id": 26,
+      "name": "Camera Mi 360 Home Security Camera 2K - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2021/06/01/image-removebg-preview_637581518321323754.png",
+      "category": "Smart home",
+      "price": 286,
+      "quantity": 200,
+      "sale": false
+    },
+    {
+      "id": 27,
+      "name": "Laptop Lenovo IdeaPad 3 14IAU7-82RJ009MVN | FHD-Windows 11) - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/04/04/82rj009mvn-1.png",
+      "category": "Laptop",
+      "price": 930,
+      "quantity": 200,
+      "sale": false
+    },
+    {
+      "id": 28,
+      "name": "Bàn phím Gaming Asus ROG Strix Scope RX - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/08/22/rog-strix-scope-rx-01.png",
+      "category": "PCs & Gears",
+      "price": 266,
+      "quantity": 200,
+      "sale": false
+    },
+    {
+      "id": 29,
+      "name": "Laptop Acer Aspire 3 Safari Gold (NX.AM0SV.007) - Chính Hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/11/12/image-removebg-preview-76.png",
+      "category": "Laptop",
+      "price": 266,
+      "quantity": 200,
+      "sale": false
+    },
+    {
+      "id": 30,
+      "name": "Chuột Chơi game Asus ROG Gladius II Core (P507) - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/08/21/rog-gladius-ii-core-05.png",
+      "category": "PCs & Gears",
+      "price": 240,
+      "quantity": 200,
+      "sale": false
+    },
+    {
+      "id": 31,
+      "name": "Loa tháp Samsung Sound Tower ST40B XV - Chính Hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/05/26/image-removebg-preview-43.png",
+      "category": "Headphone and Speaker",
+      "price": 550,
+      "quantity": 200,
+      "sale": false
+    },
+    {
+      "name": "Robot hút bụi Xiaomi Vacuum X10 Plus - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/03/10/x10-plus-3.png",
+      "category": "Smart home",
+      "price": "333",
+      "quantity": "200",
+      "sale": false,
+      "id": 32
+    },
+    {
+      "name": "Điện thoại di động iPhone 15 Pro Max (256GB) - Chính hãng VNA",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/09/13/iphone-15-pro-max-blue-titanium-pure-back-iphone-15-pro-max-blue-titanium-pure-front-2up-screen-usen.png",
+      "category": "Phone",
+      "price": "3000",
+      "quantity": "200",
+      "sale": "true",
+      "id": 33
+    },
+    {
+      "name": "Điện thoại di động OPPO Find N3 (16GB-512GB) - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/10/27/oppo-find-n3.png",
+      "category": "Phone",
+      "price": "2000",
+      "quantity": "100",
+      "sale": "true",
+      "id": 34
+    },
+    {
+      "name": "Điện thoại di động Samsung Galaxy Z Flip5 8GB256GB - Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/07/26/galaxy-z-flip5-2.png",
+      "category": "Phone",
+      "price": "2000",
+      "quantity": "100",
+      "sale": "true",
+      "id": 35
+    },
+    {
+      "name": "Laptop MSI Modern 14- Chính hãng",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/10/24/msi-modern-14-c7m-1.png",
+      "category": "Laptop",
+      "price": "2000",
+      "quantity": "100",
+      "sale": "",
+      "id": 36
+    },
+    {
+      "name": "Laptop Dell Vostro 3520-V5I3614W1",
+      "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/04/25/v513614w1-1.png",
+      "category": "Laptop",
+      "price": "2000",
+      "quantity": "100",
+      "sale": "true",
+      "id": 37
+    },
+    {
+      "name": "Điện thoại di động Samsung Galaxy S22 Ultra (512GB) - Chính hãng",
+      "img": "https://example.com/samsung-s22-ultra.png",
+      "category": "Phone",
+      "price": 2500,
+      "quantity": 150,
+      "sale": true,
+      "id": 38
+    },
+    {
+      "name": "Laptop ASUS ROG Strix G15 (RTX 3080, 32GB RAM) - Gaming Edition",
+      "img": "https://example.com/asus-rog-g15.png",
+      "category": "Laptop",
+      "price": 3000,
+      "quantity": 80,
+      "sale": true,
+      "id": 39
+    },
+    {
+      "name": "Laptop Dell XPS 15 (2023) - 4K OLED, RTX 3060",
+      "img": "https://example.com/dell-xps-15-2023.png",
+      "category": "Laptop",
+      "price": 2800,
+      "quantity": 90,
+      "sale": true,
+      "id": 43
+    },
+    {
+      "name": "Laptop Lenovo ThinkPad X1 Carbon Gen 9 - Core i7, 16GB RAM",
+      "img": "https://example.com/lenovo-thinkpad-x1-carbon.png",
+      "category": "Laptop",
+      "price": 2200,
+      "quantity": 110,
+      "sale": true,
+      "id": 44
+    },
+    {
+      "name": "Laptop HP Spectre x360 (2023) - 2-in-1, 1TB SSD",
+      "img": "https://example.com/hp-spectre-x360-2023.png",
+      "category": "Laptop",
+      "price": 2400,
+      "quantity": 80,
+      "sale": false,
+      "id": 45
+    },
+    {
+      "name": "Laptop Acer Predator Helios 300 - Gaming, GTX 3070",
+      "img": "https://example.com/acer-predator-helios-300.png",
+      "category": "Laptop",
+      "price": 2000,
+      "quantity": 95,
+      "sale": true,
+      "id": 46
+    },
+    {
+      "name": "Laptop Apple MacBook Pro 14-inch (M2, 16GB RAM) - 2023",
+      "img": "https://example.com/macbook-pro-14-inch-2023.png",
+      "category": "Laptop",
+      "price": 2800,
+      "quantity": 75,
+      "sale": false,
+      "id": 47
+    },
+    {
+      "name": "Điện thoại di động OnePlus 10 Pro (256GB) - Chính hãng",
+      "img": "https://example.com/oneplus-10-pro.png",
+      "category": "Phone",
+      "price": 1200,
+      "quantity": 180,
+      "sale": true,
+      "id": 48
+    },
+    {
+      "name": "Điện thoại di động Xiaomi Mi 12 (128GB) - Chính hãng",
+      "img": "https://example.com/xiaomi-mi-12.png",
+      "category": "Phone",
+      "price": 1500,
+      "quantity": 150,
+      "sale": false,
+      "id": 49
+    },
+    {
+      "name": "Điện thoại di động Google Pixel 6 (256GB) - Chính hãng",
+      "img": "https://example.com/google-pixel-6.png",
+      "category": "Phone",
+      "price": 1100,
+      "quantity": 200,
+      "sale": true,
+      "id": 50
+    },
+    {
+      "name": "Điện thoại di động Sony Xperia 1 III (512GB) - Chính hãng",
+      "img": "https://example.com/sony-xperia-1-iii.png",
+      "category": "Phone",
+      "price": 1800,
+      "quantity": 120,
+      "sale": false,
+      "id": 51
+    }
+  ],
+  "categorys": [
+    {
+      "id": 1,
+      "category": "Phone"
+    },
+    {
+      "id": 2,
+      "category": "PCs & Gears"
+    },
+    {
+      "id": 3,
+      "category": "Smart home"
+    },
+    {
+      "id": 4,
+      "category": "Headphone and Speaker"
+    },
+    {
+      "id": 5,
+      "category": "Laptop"
+    },
+    {
+      "id": 6,
+      "category": "Smart TV"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "tien10304",
+      "email": "tranngoctien10304@gmail.com",
+      "password": "tien10304",
+      "role": "user"
+    },
+    {
+      "username": "tien100304",
+      "email": "tien101119@donga.edu.vn",
+      "password": "tien10304",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "tien123",
+      "email": "zzzkunkun0168@gmail.com",
+      "password": "tien10304",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "tien1234",
+      "email": "uspeakclub@donga.edu.vn",
+      "password": "tien10304",
+      "role": "user",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "user": "tien10304",
+      "products": [
+        {
+          "name": "Điện thoại di động iPhone 15 Pro Max (256GB) - Chính hãng VNA",
+          "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/09/13/iphone-15-pro-max-blue-titanium-pure-back-iphone-15-pro-max-blue-titanium-pure-front-2up-screen-usen.png",
+          "category": "Phone",
+          "price": "3000",
+          "quantity": 3,
+          "sale": "true",
+          "id": 33
+        },
+        {
+          "id": 8,
+          "name": "Ổ cứng SSD Kingston A400 120GB 2.5 inch SATA3",
+          "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/09/12/image-removebg-preview.png",
+          "category": "PCs & Gears",
+          "price": 366,
+          "quantity": 4,
+          "sale": true
+        },
+        {
+          "name": "Tai nghe Bluetooth Plantronics BackBeat GO 810 - Chính hãng",
+          "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2020/10/31/image-removebg-preview-2020-10-31t111555-385.png",
+          "category": "Headphone and Speaker",
+          "price": 524,
+          "quantity": 32,
+          "sale": true,
+          "id": 10
+        }
+      ],
+      "id": 1
+    },
+    {
+      "id": 2,
+      "user": "tien100304",
+      "products": [
+        {
+          "id": 7,
+          "name": "Màn hình MSI PRO MP243XW",
+          "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/10/03/mp243xw-2.png",
+          "category": "Smart TV",
+          "price": "1000",
+          "quantity": 2
+        },
+        {
+          "id": 8,
+          "name": "Ổ cứng SSD Kingston A400 120GB 2.5 inch SATA3",
+          "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/09/12/image-removebg-preview.png",
+          "category": "PCs & Gears",
+          "price": 366,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "user": "tien123",
+      "products": [],
+      "id": 3
+    },
+    {
+      "user": "tien1234",
+      "products": [],
+      "id": 4
+    }
+  ]
+}
